@@ -1,0 +1,17 @@
+# Flask web framework
+Flask>=2.0,<3.0
+
+# Password hashing
+Flask-Bcrypt>=1.0,<2.0
+
+# Email support
+Flask-Mail>=0.9,<1.1
+
+# Database ORM
+SQLAlchemy>=1.4,<3.0
+
+# Environment variable support
+python-dotenv>=0.19,<2.0
+
+# Scheduler for background jobs
+apscheduler>=3.6,<4.0
